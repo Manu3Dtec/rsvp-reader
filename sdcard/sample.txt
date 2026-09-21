@@ -1,0 +1,1 @@
+Willkommen beim RSVP Reader V2. Dieser erste Test prüft Display, Touch, SD-Karte und die neue RSVP-Engine. Tippe auf die Mitte des Bildschirms, um die Wiedergabe zu starten oder anzuhalten. Mit Plus und Minus kannst du die Lesegeschwindigkeit verändern. Satzzeichen erzeugen automatisch eine etwas längere Pause. Viel Spaß beim Testen!

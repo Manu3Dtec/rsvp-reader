@@ -1,0 +1,33 @@
+# ESP-IDF build output
+build/
+build-*/
+managed_components/
+sdkconfig
+sdkconfig.old
+
+# Local firmware images and diagnostics
+firmware-*/
+*.bin
+*.elf
+*.map
+*.log
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Local credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Prebuilt images used by the browser installer
+!docs/installer/firmware/*.bin

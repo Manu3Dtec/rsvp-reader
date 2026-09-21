@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+set(COMPONENTS main)
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+set(PROJECT_VER "3.49.0-rc3.0")
+project(simple_rsvp_reader_349b_v2)
