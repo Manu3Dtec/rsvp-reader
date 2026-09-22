@@ -1,5 +1,7 @@
 <p align="center"><img src="docs/assets/logo.png" width="520" alt="Simple RSVP Reader logo"></p>
 
+<p align="center"><a href="https://ko-fi.com/manu3dtec"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Manu3Dtec on Ko-fi"></a></p>
+
 # Simple RSVP Reader
 
 Open-source RSVP speed-reading firmware for the **Waveshare ESP32-S3 Touch-LCD-3.49B V2 / Rev 1.1**.
