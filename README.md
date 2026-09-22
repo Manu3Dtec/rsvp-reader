@@ -1,8 +1,8 @@
-<p align="center"><img src="docs/assets/logo.svg" width="520" alt="Simple RSVP Reader logo"></p>
+<p align="center"><img src="docs/assets/logo.png" width="520" alt="Simple RSVP Reader logo"></p>
 
-# Simple RSVP Reader – ESP32-S3 Touch-LCD-3.49B V2 port
+# Simple RSVP Reader
 
-Open-source ESP-IDF port of Simple RSVP Reader for the **Waveshare ESP32-S3 Touch-LCD-3.49B V2 / Rev 1.1**.
+Open-source RSVP speed-reading firmware for the **Waveshare ESP32-S3 Touch-LCD-3.49B V2 / Rev 1.1**.
 
 ## Install without development tools
 
